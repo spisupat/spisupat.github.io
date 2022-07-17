@@ -1,0 +1,3 @@
+User-agent: *
+
+Sitemap: https://spisupat.github.io/sitemap.xml
